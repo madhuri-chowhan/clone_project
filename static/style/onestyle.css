@@ -1,0 +1,42 @@
+
+a{
+  text-decoration:none;
+  color: rgb(255, 255, 255);  
+  
+}
+  
+#header-nav{
+    position:relative;
+    top: 0;
+    display:inline-block;
+    width: 100%;
+    background: rgb(0, 0, 0);    
+    
+  }
+
+ul li {
+    display: inline-block;
+    padding: 10px;   
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+}
+
+
+    .brand{
+        display: inline-block;
+        padding-bottom: 30px;   
+        font-size: 30px;
+        margin: 0;       
+        float: left;
+       }
+
+ul li:hover{
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(14, 217, 224);
+    
+    
+}
+
